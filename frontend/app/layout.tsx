@@ -1,0 +1,1 @@
+import'./globals.css';export const metadata={title:'DreamTithe',description:'An on-chain ledger for promises made in dreams'};export default function L({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}
